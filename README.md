@@ -1,3 +1,4 @@
+<div> <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="rashidhussain547" /></div>
 <h1 align="center">Hi 👋, I'm Rashid hussain</h1>
 <h3 align="center">Software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
